@@ -8,6 +8,5 @@
   <a href="mailto:paulo_henriquemds@outlook.com"><img width='170px' src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://linkedin.com/in/paulo-mds"><img width='100px' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
   
- 
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulimmds&theme=blue-green">
+ [![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulimmds)](https://github.com/anuraghazra/github-readme-stats)>
 
